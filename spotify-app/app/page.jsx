@@ -14,3 +14,9 @@ export default function Hello(){
 }
 export default function Eason(){
     return <p>Hey</p>
+}
+
+export default function fuse(){
+    return <p>rainbow six?</p>
+}
+
