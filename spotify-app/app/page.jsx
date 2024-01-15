@@ -8,3 +8,6 @@ export default function Home() {
 export default function Test() {
     return (<p>Bryan smells like fish</p>)
 }
+export default function Test() {
+    return (<p>Bryan smells like fish</p>)
+}
