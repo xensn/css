@@ -12,3 +12,5 @@ export default function Test() {
 export default function Hello(){
     return <p>Hello</p>
 }
+export default function Eason(){
+    return <p>Hey</p>
