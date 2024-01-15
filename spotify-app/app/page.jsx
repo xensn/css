@@ -15,3 +15,6 @@ export default function Test() {
 export default function Test() {
     return (<p>Bryan smells like fish</p>)
 }
+export default function Test() {
+    return (<p>Bryan smells like fish</p>)
+}
