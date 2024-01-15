@@ -5,6 +5,12 @@ export default function Home() {
     return (<p>Hello</p>)
 }
 
+export default function Test() {
+    return (<p>Bryan smells like fish</p>)
+}
+
+export default function Hello(){
+    return <p>Hello</p>
+}
 export default function Eason(){
     return <p>Hey</p>
-}
