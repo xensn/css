@@ -1,4 +1,5 @@
-import Image from 'next/image'
+"use client";
+import Image from 'next/image';
 import styles from './page.module.css'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import {Container,InputGroup,FormControl,Button,Row,Card } from 'react-bootstrap'
